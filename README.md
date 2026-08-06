@@ -5,7 +5,7 @@
 <h3 align="center">MCA Student | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Currently+Grinding+DSA+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;+%F0%9F%94%A5" />
 </p>
 
 ---
