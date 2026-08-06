@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">MCA Student | Aspiring Software Engineer | Full Stack Developer</h3>
+<h3 align="center">MCA Student | Aspiring Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Currently+Grinding+DSA+%F0%9F%94%A5" />
@@ -15,22 +15,21 @@
 ## 🚀 About Me
 
 - 🎓 MCA Student
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning **Java, Spring Boot, React, TypeScript**
-- 🧠 Solving DSA problems every day
-- 🚀 Building projects to become an SDE
-- ⚡ Fun Fact: I enjoy turning ideas into real applications.
+- 💻 Passionate about Full Stack Web Technologies.
+- 🌱 Currently learning **Java, React, Node.js, Express.js
+- 🧠 Solving Coding problems every day
+- 🚀 Building scalable projects.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/darshan-g89" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:darshankanase65@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
@@ -46,7 +45,6 @@
 <p>
 
 <img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=spring" />
 <img src="https://skillicons.dev/icons?i=react" />
 <img src="https://skillicons.dev/icons?i=typescript" />
 <img src="https://skillicons.dev/icons?i=javascript" />
