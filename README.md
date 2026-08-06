@@ -5,9 +5,7 @@
 <h3 align="center">MCA Student | Aspiring Software Engineer</h3>
 
 
-<img width="370" height="370" alt="image" src="https://github.com/user-attachments/assets/59676fcd-e268-4438-9269-536d1fe0aedc" />
-
-
+<img width="180" height="210" alt="image" src="https://github.com/user-attachments/assets/59676fcd-e268-4438-9269-536d1fe0aedc" />
 
 
 <p align="center">
