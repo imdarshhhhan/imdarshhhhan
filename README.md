@@ -46,7 +46,6 @@
 
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=typescript" />
 <img src="https://skillicons.dev/icons?i=javascript" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=express" />
@@ -57,7 +56,6 @@
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
 
 </p>
 
@@ -65,11 +63,11 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
+| Project | Description | 
 |----------|-------------|
-| 📊 DataLens | AI-powered data analytics platform |
+| 📊 DataLens | Intelligent data analytics and visualisation platform |
 | 🌱 ESG Scorer | ESG score prediction using Machine Learning |
-| 💬 QuickMeet | Real-time chat & meeting platform |
+| 💬 SimonSaysGame | Memory Game |
 
 ---
 
@@ -90,36 +88,6 @@
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=imdarshhhhan&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=imdarshhhhan&theme=onedark&row=1&column=6"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imdarshhhhan&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=imdarshhhhan&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
