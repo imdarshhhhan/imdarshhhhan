@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">MCA Student | Aspiring Software Engineer</h3>
 
-
-<img width="180" height="210" alt="image" src="https://github.com/user-attachments/assets/59676fcd-e268-4438-9269-536d1fe0aedc" />
-
+<p align = "center">
+<img width="220" height="240" alt="image" src="https://github.com/user-attachments/assets/59676fcd-e268-4438-9269-536d1fe0aedc" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;+%F0%9F%94%A5" />
