@@ -14,13 +14,13 @@
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 MCA Student
-- 💻 Passionate about Full Stack Web Technologies.
-- 🌱 Currently learning **Java, React, Node.js, Express.js
-- 🧠 Solving Coding problems every day
-- 🚀 Building scalable projects.
+-  MCA Student
+-  Passionate about Full Stack Web Technologies.
+-  Currently learning **Java, React, Node.js, Express.js
+-  Solving Coding problems every day
+-  Building scalable projects.
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p>
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | 
 |----------|-------------|
@@ -85,7 +85,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
@@ -96,5 +96,5 @@
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile ⭐
+ < Thanks for visiting my profile />
 </h3>
