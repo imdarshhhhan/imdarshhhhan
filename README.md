@@ -12,9 +12,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;+%F0%9F%94%A5" />
 </p>
-
----
 -->
+---
 
 ## 🧑‍💻 About Me
 
