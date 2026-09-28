@@ -68,9 +68,11 @@
 
 | Project | Description | 
 |----------|-------------|
-| 📊 DataLens | Intelligent data analytics and visualisation platform |
-| 🌱 ESG Scorer | ESG score prediction using Machine Learning |
-| 💬 SimonSaysGame | Memory Game |
+| Quizora  | Ai assisted adaptive quiz & Assessment platform | 
+| DataLens | Intelligent data analytics and visualisation platform |
+| ESG Scorer | ESG score prediction using Machine Learning |
+| SimonSaysGame | Memory Game |
+| Amazon Clone | A simple frontend amazon like user interface |
 
 ---
 
